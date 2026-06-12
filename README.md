@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Neerajsaii/DSA/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Neerajsaii/DSA/tree/master/0050-powx-n) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/Neerajsaii/DSA/tree/master/0560-subarray-sum-equals-k) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Neerajsaii/DSA/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
