@@ -9,11 +9,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Neerajsaii/DSA/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Neerajsaii/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Neerajsaii/DSA/tree/master/0053-maximum-subarray) |
+| [0189-rotate-array](https://github.com/Neerajsaii/DSA/tree/master/0189-rotate-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Neerajsaii/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Neerajsaii/DSA/tree/master/0042-trapping-rain-water) |
+| [0189-rotate-array](https://github.com/Neerajsaii/DSA/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Neerajsaii/DSA/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/Neerajsaii/DSA/tree/master/0050-powx-n) |
+| [0189-rotate-array](https://github.com/Neerajsaii/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Neerajsaii/DSA/tree/master/0231-power-of-two) |
 ## Bit Manipulation
 |  |
