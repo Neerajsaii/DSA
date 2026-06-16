@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Neerajsaii/DSA/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/Neerajsaii/DSA/tree/master/0189-rotate-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Neerajsaii/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Neerajsaii/DSA/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Neerajsaii/DSA/tree/master/0001-two-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Neerajsaii/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Neerajsaii/DSA/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Neerajsaii/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Neerajsaii/DSA/tree/master/0231-power-of-two) |
 | [0338-counting-bits](https://github.com/Neerajsaii/DSA/tree/master/0338-counting-bits) |
+| [0645-set-mismatch](https://github.com/Neerajsaii/DSA/tree/master/0645-set-mismatch) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Neerajsaii/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Prefix Sum
 |  |
@@ -71,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Neerajsaii/DSA/tree/master/0053-maximum-subarray) |
 | [0190-reverse-bits](https://github.com/Neerajsaii/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Neerajsaii/DSA/tree/master/0191-number-of-1-bits) |
+## Sorting
+|  |
+| ------- |
+| [0645-set-mismatch](https://github.com/Neerajsaii/DSA/tree/master/0645-set-mismatch) |
 <!---LeetCode Topics End-->
