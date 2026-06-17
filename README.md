@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Neerajsaii/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Neerajsaii/DSA/tree/master/0014-longest-common-prefix) |
 | [0042-trapping-rain-water](https://github.com/Neerajsaii/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Neerajsaii/DSA/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Neerajsaii/DSA/tree/master/0066-plus-one) |
@@ -78,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/Neerajsaii/DSA/tree/master/0645-set-mismatch) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Neerajsaii/DSA/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Neerajsaii/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
