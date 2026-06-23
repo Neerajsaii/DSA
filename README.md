@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Neerajsaii/DSA/tree/master/0042-trapping-rain-water) |
+| [0445-add-two-numbers-ii](https://github.com/Neerajsaii/DSA/tree/master/0445-add-two-numbers-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Neerajsaii/DSA/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Neerajsaii/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Neerajsaii/DSA/tree/master/0231-power-of-two) |
+| [0445-add-two-numbers-ii](https://github.com/Neerajsaii/DSA/tree/master/0445-add-two-numbers-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Neerajsaii/DSA/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Neerajsaii/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Neerajsaii/DSA/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Neerajsaii/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/Neerajsaii/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Neerajsaii/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 <!---LeetCode Topics End-->
