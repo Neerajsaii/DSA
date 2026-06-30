@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Neerajsaii/DSA/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/Neerajsaii/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Neerajsaii/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Neerajsaii/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Neerajsaii/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Neerajsaii/DSA/tree/master/0645-set-mismatch) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Neerajsaii/DSA/tree/master/1019-next-greater-node-in-linked-list) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Neerajsaii/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/Neerajsaii/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Neerajsaii/DSA/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Neerajsaii/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Neerajsaii/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Neerajsaii/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Dynamic Programming
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Neerajsaii/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Neerajsaii/DSA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Neerajsaii/DSA/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/Neerajsaii/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Neerajsaii/DSA/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/Neerajsaii/DSA/tree/master/0645-set-mismatch) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Neerajsaii/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
@@ -159,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Neerajsaii/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Neerajsaii/DSA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
