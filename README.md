@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Neerajsaii/DSA/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Neerajsaii/DSA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Neerajsaii/DSA/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/Neerajsaii/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Neerajsaii/DSA/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/Neerajsaii/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Neerajsaii/DSA/tree/master/0338-counting-bits) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Neerajsaii/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/Neerajsaii/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Neerajsaii/DSA/tree/master/0287-find-the-duplicate-number) |
 | [1004-max-consecutive-ones-iii](https://github.com/Neerajsaii/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Neerajsaii/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Neerajsaii/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Neerajsaii/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Neerajsaii/DSA/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -198,4 +201,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Neerajsaii/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Neerajsaii/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Neerajsaii/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/Neerajsaii/DSA/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
