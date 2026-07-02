@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Neerajsaii/DSA/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Neerajsaii/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Neerajsaii/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0290-word-pattern](https://github.com/Neerajsaii/DSA/tree/master/0290-word-pattern) |
 | [0560-subarray-sum-equals-k](https://github.com/Neerajsaii/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Neerajsaii/DSA/tree/master/0645-set-mismatch) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Neerajsaii/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Neerajsaii/DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Neerajsaii/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0290-word-pattern](https://github.com/Neerajsaii/DSA/tree/master/0290-word-pattern) |
 ## Trie
 |  |
 | ------- |
