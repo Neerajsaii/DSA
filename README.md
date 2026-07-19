@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Neerajsaii/DSA/tree/master/0645-set-mismatch) |
 | [1004-max-consecutive-ones-iii](https://github.com/Neerajsaii/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Neerajsaii/DSA/tree/master/1019-next-greater-node-in-linked-list) |
+| [1089-duplicate-zeros](https://github.com/Neerajsaii/DSA/tree/master/1089-duplicate-zeros) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Neerajsaii/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Neerajsaii/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Neerajsaii/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Neerajsaii/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/Neerajsaii/DSA/tree/master/0876-middle-of-the-linked-list) |
+| [1089-duplicate-zeros](https://github.com/Neerajsaii/DSA/tree/master/1089-duplicate-zeros) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Neerajsaii/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Neerajsaii/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Dynamic Programming
