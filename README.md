@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/Neerajsaii/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Neerajsaii/DSA/tree/master/1019-next-greater-node-in-linked-list) |
 | [1089-duplicate-zeros](https://github.com/Neerajsaii/DSA/tree/master/1089-duplicate-zeros) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Neerajsaii/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Neerajsaii/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Neerajsaii/DSA/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Neerajsaii/DSA/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Neerajsaii/DSA/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/Neerajsaii/DSA/tree/master/0445-add-two-numbers-ii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Neerajsaii/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Neerajsaii/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Neerajsaii/DSA/tree/master/0338-counting-bits) |
 | [0645-set-mismatch](https://github.com/Neerajsaii/DSA/tree/master/0645-set-mismatch) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Neerajsaii/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Neerajsaii/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## Prefix Sum
 |  |
@@ -295,4 +298,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Neerajsaii/DSA/tree/master/0572-subtree-of-another-tree) |
+## Backtracking
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Neerajsaii/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Neerajsaii/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/Neerajsaii/DSA/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
